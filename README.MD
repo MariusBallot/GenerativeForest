@@ -1,4 +1,4 @@
-# :mushroom: The generative Forest :snowflake:
+# :mushroom: The Generative Forest :snowflake:
 
 <img src='./src/assets/pres.gif'>
 
@@ -15,4 +15,4 @@ The snow was made with a plane but slitely lower than the first one, with homema
 
 The hat of the shrooms were assigned to a Basic THREE shader and their "Whitness" was attached to the distance between the camera and the shroom itself. That is at =the 
 
-## <a href="https://www.mariusballot.com/lab/generativeForest/"> Link To Experiment</a>
+## <a href="https://www.mariusballot.com/lab/generativeForest/" target="_blank"> Link To Experiment</a>
