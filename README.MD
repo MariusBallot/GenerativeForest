@@ -1,4 +1,4 @@
-# :tree: The generative Forest :snow:
+# :mushroom: The generative Forest :snowflake:
 
 <img src='./src/assets/pres.gif'>
 
